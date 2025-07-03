@@ -63,8 +63,10 @@
     transition: all .15s ease;
     letter-spacing: .025em;
     text-shadow: 0 0 1px #fff;
-    text-decoration: none; /* Remove default underline on anchor elements */
-    display: inline-block; /* Ensure consistent spacing */
+    text-decoration: none;
+    /* Remove default underline on anchor elements */
+    display: inline-block;
+    /* Ensure consistent spacing */
 }
 
 .contentbtn button:hover,
