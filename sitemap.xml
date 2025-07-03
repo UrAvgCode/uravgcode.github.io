@@ -3,9 +3,14 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://uravgcode.com/</loc>
-  </url><url>
+  </url>
+  <url>
     <loc>https://uravgcode.com/categories/</loc>
-  </url><url>
+  </url>
+  <url>
     <loc>https://uravgcode.com/tags/</loc>
+  </url>
+  <url>
+  <loc>https://uravgcode.com/privacy/</loc>
   </url>
 </urlset>
